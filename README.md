@@ -573,24 +573,5 @@ Lets try againg from browser.
 
 
 
-Yaaaaaaa... We did it. We have configured ingress and egress traffic flow.
-Congratulations..!!!
-
-To summarize we basically looked at how namespaces are used to create isolation on the same machine and how the linux bridge and iptables is used to forward and masquerade packets to enable communications to the outside world.
 
 
-
-
-### Resources
-
-* Tcpdump -> https://hackertarget.com/tcpdump-examples/
-* IPTables -> https://medium.com/skilluped/what-is-iptables-and-how-to-use-it-781818422e52
-* NAT -> https://whatismyipaddress.com/nat
-* Newwork Namespace -> https://blog.scottlowe.org/2013/09/04/introducing-linux-network-namespaces/
-* Newwork Namespace -> https://blogs.igalia.com/dpino/2016/04/10/network-namespaces/
-* https://www.gilesthomas.com/2021/03/fun-with-network-namespaces
-* https://itnext.io/create-your-own-network-namespace-90aaebc745d
-* https://medium.com/@abhishek.amjeet/container-networking-using-namespaces-part1-859d317ca1b8
-* https://adil.medium.com/container-networking-under-the-hood-network-namespaces-6b2b8fe8dc2a
-* https://iximiuz.com/en/posts/container-networking-is-simple/
-* https://www.suse.com/c/rancher_blog/introduction-to-container-networking/
